@@ -62,7 +62,7 @@ Docker Hub📦:<https://hub.docker.com/u/nishidemasami>
 Website🌐:<https://nishidemasami.github.io/>  
 Twitter🐦:[@nishidemasami](https://twitter.com/nishidemasami)  
 Bitcoin💸:1NiShiDeiEbENd9cmeNXCVWPr2gDu3LuPg  
-Ripple💸:rniSHidPsFetoqRWdVDRB6bBGWLKN1J7FN  
+Ripple💸:rnishiDAAUSFuM2cw1esuXqfzQUYtV7Cvc  
 Facebook👤:<https://www.facebook.com/masaminish/>  
 Instagram📷:<https://www.instagram.com/nishidemasami/>  
 LinkedIn👥:<https://www.linkedin.com/in/masami-nishide-66820bb2/>  
